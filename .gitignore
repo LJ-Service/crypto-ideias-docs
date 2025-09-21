@@ -1,3 +1,21 @@
-﻿# Ignore zips e a pasta extraída
+﻿# Ignorar arquivos temporários do Windows
+Thumbs.db
+desktop.ini
+
+# Ignorar pacotes ZIP
 *.zip
+
+# Ignorar scripts auxiliares de deploy
+*.ps1
+*.sh
+
+# Ignorar backups temporários
+*.bak
+*.tmp
+~$*
+
+# Ignorar a pasta duplicada de extração
 crypto_ideias_docs_full/
+
+# Ignorar logs
+*.log
