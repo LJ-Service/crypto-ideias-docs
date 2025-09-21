@@ -1,0 +1,3 @@
+﻿# Ignore zips e a pasta extraída
+*.zip
+crypto_ideias_docs_full/
